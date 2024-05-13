@@ -1,4 +1,4 @@
-# Gender Equitable AI in Healthcare
+# Gender Equitable AI in Healthcare 2023
 
 
 This repo contains python codes used for the Gender Equitable AI project with AiROL lab and USAID
@@ -6,4 +6,4 @@ This repo contains python codes used for the Gender Equitable AI project with Ai
 - In the first document - Paper3_DA, the focuc was 100% on data analysis, i.e., Pearson Correlation, Spearman's, impact of various features on healthcare accessiblity
 - In the second file, the focus was on prediction using Machine Learning models
 
-Two Journal papers were published from this work
+The project ran for most of 2023 and two Journal papers were published from this work alongside two workshop presentations
